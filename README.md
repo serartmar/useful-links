@@ -6,6 +6,8 @@
 
 * ## Accessibility
   * [WebAIM's WCAG 2.0 Checklist](http://webaim.org/standards/wcag/checklist)
+  * [Udacity BUILDING HIGH CONVERSION WEB FORMS: CHECKLIST](http://labs.udacity.com/images/web-forms-checklist.pdf)
+  * [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
   
 * ## Utils
   * [HTTP Compression Test](http://www.whatsmyip.org/http-compression-test/)
@@ -19,6 +21,8 @@
   * [localfont](http://www.localfont.com/)
   * [Web Developer Checklist](http://webdevchecklist.com/)
   * [Web Page Test](https://webpagetest.org/)
+  * [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
+  * [Transformicons](http://www.transformicons.com/)
   
  * ## Desing Patterns
    * [Codepen Design Patterns](http://codepen.io/patterns)
@@ -32,9 +36,20 @@
    * [Professional Web Typography](https://prowebtype.com/)
    * [CSS animatable properties](http://oli.jp/2010/css-animatable-properties/)
    * [Resource Cards](https://resourcecards.com/)
+   * [Patterns and resources for creating responsive web experiences.](http://bradfrost.github.io/this-is-responsive/)
+   * [Photoshop Etiquette](http://photoshopetiquette.com/)
    
 * ## Samples
   * [Nifty Modal Window Effects](https://tympanus.net/Development/ModalWindowEffects/)
   * [Line Menu Styles](https://tympanus.net/Development/LineMenuStyles/)
   * [Creative Link Effects](https://tympanus.net/Development/CreativeLinkEffects/)
+  
+* ## Other
+  * [Успешное прохождение интервью для фронтенд разработчика](https://proglib.io/p/cracking-the-frontend-interview/)
+  * [How to Ask Good Coding Questions That Get Great Answers](https://zellwk.com/blog/asking-questions/)
+  * [Гайд по вакансиям в Веб Разработке](https://mkdev.me/posts/gayd-po-vakansiyam-v-veb-razrabotke)
+  * [Карта фронтенда](https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
+  * [Карта фронтенда 2](http://images.vfl.ru/ii/1466366676/e324255d/13079149.png)
+  * [Frontend-разработчики должны быть в теме всего](https://habrahabr.ru/post/306716/)
+  * [Программирование — занятие не для каждого](https://geektimes.ru/company/mailru/blog/276054/)
   
