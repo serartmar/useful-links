@@ -8,6 +8,7 @@
   * [WebAIM's WCAG 2.0 Checklist](http://webaim.org/standards/wcag/checklist)
   * [Udacity BUILDING HIGH CONVERSION WEB FORMS: CHECKLIST](http://labs.udacity.com/images/web-forms-checklist.pdf)
   * [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
+  * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
   
 * ## Utils
   * [HTTP Compression Test](http://www.whatsmyip.org/http-compression-test/)
