@@ -39,6 +39,7 @@
    * [Resource Cards](https://resourcecards.com/)
    * [Patterns and resources for creating responsive web experiences.](http://bradfrost.github.io/this-is-responsive/)
    * [Photoshop Etiquette](http://photoshopetiquette.com/)
+   * [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
    
 * ## Samples
   * [Nifty Modal Window Effects](https://tympanus.net/Development/ModalWindowEffects/)
