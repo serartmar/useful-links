@@ -40,6 +40,7 @@
    * [Patterns and resources for creating responsive web experiences.](http://bradfrost.github.io/this-is-responsive/)
    * [Photoshop Etiquette](http://photoshopetiquette.com/)
    * [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
+   * [Plain JS](https://plainjs.com/javascript/styles/)
    
 * ## Samples
   * [Nifty Modal Window Effects](https://tympanus.net/Development/ModalWindowEffects/)
