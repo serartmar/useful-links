@@ -56,3 +56,7 @@
   * [Frontend-разработчики должны быть в теме всего](https://habrahabr.ru/post/306716/)
   * [Программирование — занятие не для каждого](https://geektimes.ru/company/mailru/blog/276054/)
   
+* ## Life
+  * [Почему время бежит слишком быстро и как его замедлить](https://lifehacker.ru/2017/05/29/how-to-slow-down-time/)
+  * [48 вопросов, которые помогут вам сделать неуклюжую беседу проще](https://habrahabr.ru/company/testutor/blog/298180/)
+  
