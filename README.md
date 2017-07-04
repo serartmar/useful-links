@@ -56,6 +56,7 @@
   * [Карта фронтенда 2](http://images.vfl.ru/ii/1466366676/e324255d/13079149.png)
   * [Frontend-разработчики должны быть в теме всего](https://habrahabr.ru/post/306716/)
   * [Программирование — занятие не для каждого](https://geektimes.ru/company/mailru/blog/276054/)
+  * [85 технологических лайфхаков, которые упростят жизнь](https://lifehacker.ru/2017/07/03/tech-lifehacks/)
   
 * ## Life
   * [Почему время бежит слишком быстро и как его замедлить](https://lifehacker.ru/2017/05/29/how-to-slow-down-time/)
