@@ -61,4 +61,6 @@
 * ## Life
   * [Почему время бежит слишком быстро и как его замедлить](https://lifehacker.ru/2017/05/29/how-to-slow-down-time/)
   * [48 вопросов, которые помогут вам сделать неуклюжую беседу проще](https://habrahabr.ru/company/testutor/blog/298180/)
+  * [25 новых гениальных лайфхаков на все случаи жизни](https://lifehacker.ru/2017/10/09/25-genius-life-hacks/)
+  * [10 базовых правил хорошего разговора](https://lifehacker.ru/2017/10/09/good-conversation/)
   
