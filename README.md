@@ -64,3 +64,4 @@
   * [25 новых гениальных лайфхаков на все случаи жизни](https://lifehacker.ru/2017/10/09/25-genius-life-hacks/)
   * [10 базовых правил хорошего разговора](https://lifehacker.ru/2017/10/09/good-conversation/)
   * [Практичні методи енергозбереження](https://wol.jw.org/uk/wol/d/r15/lp-k/102017166)
+  * [20 способов сэкономить на коммунальных услугах](https://lifehacker.ru/2017/12/09/kommunalka)
