@@ -57,6 +57,7 @@
   * [Frontend-разработчики должны быть в теме всего](https://habrahabr.ru/post/306716/)
   * [Программирование — занятие не для каждого](https://geektimes.ru/company/mailru/blog/276054/)
   * [85 технологических лайфхаков, которые упростят жизнь](https://lifehacker.ru/2017/07/03/tech-lifehacks/)
+  * [25 Tips for New Developers: Advice from a (Mostly) Self-Taught Software Engineer](https://dev.to/aspittel/25-tips-for-new-developers-advice-from-a-mostly-self-taught-software-engineer-1ff1)
   
 * ## Life
   * [Почему время бежит слишком быстро и как его замедлить](https://lifehacker.ru/2017/05/29/how-to-slow-down-time/)
