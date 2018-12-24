@@ -67,3 +67,4 @@
   * [Практичні методи енергозбереження](https://wol.jw.org/uk/wol/d/r15/lp-k/102017166)
   * [20 способов сэкономить на коммунальных услугах](https://lifehacker.ru/2017/12/09/kommunalka)
   * [7 соусов, способных преобразить любое блюдо](https://lifehacker.ru/7-sauces/)
+  * [47 вопросов на год](https://lifehacker.ru/47-voprosov-na-god)
