@@ -68,3 +68,4 @@
   * [20 способов сэкономить на коммунальных услугах](https://lifehacker.ru/2017/12/09/kommunalka)
   * [7 соусов, способных преобразить любое блюдо](https://lifehacker.ru/7-sauces/)
   * [47 вопросов на год](https://lifehacker.ru/47-voprosov-na-god)
+  * [The Realistic Guide to Remote Work](https://dev.to/stephsmithio/the-guide-to-remote-work-that-isnt-trying-to-sell-you-anything-498m)
